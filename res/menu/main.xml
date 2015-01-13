@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.rollulp.shearstress.MainActivity" >
+
+    <item
+        android:id="@+id/action_info"
+        android:orderInCategory="100"
+        android:title="Info"
+        app:showAsAction="never"/>
+	<item
+        android:id="@+id/action_schema"
+        android:orderInCategory="100"
+        android:title="@string/menu_data"
+        app:showAsAction="never"/>
+	<item
+        android:id="@+id/action_formule"
+        android:orderInCategory="100"
+        android:title="@string/menu_formulas"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_crediti"
+        android:orderInCategory="100"
+        android:title="@string/menu_credits"
+        app:showAsAction="never"/>
+
+</menu>

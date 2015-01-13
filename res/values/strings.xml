@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Column Break</string>
+    <string-array name="vincoli">
+        <item>Fixed - Fixed</item>
+        <item>Fixed - Support</item>
+        <item>Fixed - Free</item>
+        <item>Support - Support</item>
+    </string-array>
+    <string name="credits_rol">\n<b>Rolando</b>\n\nI am the one who deals with the programming.\nThis app is the first one I release, hoping to complete it in every detail and to continue with the developing of others reguarding all the scientific area. Please contact me for any bugs you find or for implementation suggetions. Moreover the whole code is open, i send the source on request.\n\n</string>
+    <string name="credits_ale">\n<b>Alessandro</b>\n\nI am the one who deals with the theorical part.\nI attended the universities of Salerno(It) and Padua(It), faculty of engineering. This app is meant to give a theorical as well as practical approach to the state of borderline stability of single columns, considering also the second order effects. The concrete cover is assumed to be 3cm wide, and the fyd to be of 391.3N/mm². I am grateful for every feedback of eventuals imprecisions. At the moment I am developing a more detailed version that includes steel rods and graphs of the adimensionalized limit domain.\n\n</string>
+    <string name="credits_mail"><i>Contact us:  <b>rollulporo@gmail.com\n</b></i></string>
+    <string name="element">Column</string>
+    <string name="length">&quot;Length : &quot;</string>
+    <string name="endings">"Restrains : "</string>
+    <string name="sollecitations">Sollecitations</string>
+    <string name="mmax">"M max : "</string>
+    <string name="mmin">"M min : "</string>
+    <string name="section">Section</string>
+    <string name="base">"Base : "</string>
+    <string name="height">"Height : "</string>
+    <string name="inferior_armor">"Inf. Armor : "</string>
+    <string name="superior_armor">"Sup. Armor : "</string>
+    <string name="material">Material</string>
+    <string name="concrete">Concrete</string>
+    <string name="rck">"RCK : "</string>
+    <string name="phi">"φ (viscosity) : "</string>
+    <string name="normal_force">"N : "</string>
+    <string name="calculate">Calculate</string>
+    <string name="results">Results</string>
+    <string name="critical_load">"Critical Load : "</string>
+    <string name="tozza">Squat</string>
+    <string name="snella">Slender</string>
+    <string name="menu_data">Data</string>
+    <string name="menu_credits">Credits</string>
+    <string name="menu_formulas">Formulas</string>
+	<string name="dominio">Interaction domain</string>
+   	<string name="momenti_opposti">Torques of opposite sign</string>
+   	<string name="momenti_uguali">Torques of equal sign</string>
+   	<string name="notesAvailable">Theory explained in the menus \"Formulas\" and \"info\"</string>
+   	<string name="alert_title">Warning</string>
+   	<string name="alert_message">You did not set all the parameters</string>
+   	<string name="alert_toast">Unset values are considered 0</string>
+</resources>

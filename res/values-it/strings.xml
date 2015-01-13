@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Instabilità Colonna</string>
+    <string-array name="vincoli">
+        <item>Incastro - Incastro</item>
+        <item>Incastro - Appoggio</item>
+        <item>Incastro - Libero</item>
+        <item>Appoggio - Appoggio</item>
+    </string-array>
+    <string name="credits_rol">\n<b>Rolando</b>\n\nIo curo la parte programmatica.\nQuest\'t app è la prima che rilascio, sperando di completarla in ogni dettaglio e di continuare con lo sviluppo sempre più accurato di altre riguardanti tutta l\'area scientifica. Ringrazio per qualunque segnalazione di eventuali problemi o per proposte di implementazione. Inoltre, l\'intero codice è open: lo spedisco a richiesta.\n\n</string>
+    <string name="credits_ale">\n<b>Alessandro</b>\n\nIo curo la parte teorica.\nHo frequentato l\'Università degli Studi di Salerno e di Padova, facoltà di ingegneria. Con questa app si vuole dare sia un approccio teorico che pratico allo stato limite di stabilità delle colonne singole, tenendo in cosiderazione anche gli effetti del secondo ordine. Si fissano il copriferro a 3cm e la resistenza di snervamento dell\'acciaio di progetto a 391.3N/mm². Ringrazio per qualunque segnalazione di eventuali imprecisioni. Attualmente sto sviluppando una verisione più dettagliata che include aste di solo acciaio e grafici del dominio limite adimensionalizzato.\n\n</string>
+    <string name="credits_mail"><i>Contattaci: <b>roll.app.all@gmail.com\n</b></i></string>
+    <string name="element">Colonna</string>
+    <string name="length">"Lunghezza : "</string>
+    <string name="endings">"Vincoli : "</string>
+    <string name="sollecitations">Sollecitazioni</string>
+    <string name="mmax">"M massimo : "</string>
+    <string name="mmin">"M minimo : "</string>
+    <string name="section">Sezione</string>
+    <string name="base">"Base : "</string>
+    <string name="height">"Altezza : "</string>
+    <string name="inferior_armor">"Armatura Inf : "</string>
+    <string name="superior_armor">"Armatura Sup : "</string>
+    <string name="material">Materiale</string>
+    <string name="concrete">Calcestruzzo</string>
+    <string name="rck">"RCK : "</string>
+    <string name="phi">"φ (viscosità) : "</string>
+    <string name="normal_force">"N : "</string>
+    <string name="calculate">Calcola</string>
+    <string name="results">RISULTATI</string>
+    <string name="critical_load">"Carico Critico : "</string>
+    <string name="tozza">Tozza</string>
+    <string name="snella">Snella</string>
+    <string name="menu_data">Schema</string>
+    <string name="menu_formulas">Formule</string>
+    <string name="menu_credits">Crediti</string>
+   	<string name="dominio">Dominio di interazione</string>
+   	<string name="momenti_opposti">Momenti di segno opposto</string>
+   	<string name="momenti_uguali">Momenti di segno uguale</string>
+   	<string name="notesAvailable">Note di teoria nel menù \"Info\" e \"Formule\"</string>
+   	<string name="alert_title">Attenzione</string>
+   	<string name="alert_message">Non hai impostato tutti i parametri</string>
+   	<string name="alert_toast">I valori non impostati sono considerati 0</string>
+
+</resources>
